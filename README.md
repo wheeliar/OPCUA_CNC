@@ -1,0 +1,2 @@
+# OPCUA_CNC
+OPC-UA CNC配套规范
